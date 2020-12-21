@@ -1,4 +1,3 @@
-// testing if i can edit your files or not lol 
 
 #include<stdio.h>
 #include<math.h>
